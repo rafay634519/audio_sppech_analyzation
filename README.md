@@ -19,8 +19,6 @@ File Upload: Users can upload an audio file dynamically.
 
 Audio Processing: The uploaded file is converted into a format suitable for analysis.
 
-Speech Recognition: Extracts text from speech (if implemented).
-
 Analysis & Output: The system performs speech analysis, such as identifying emotions, speaker verification, or transcribing the audio.
 
 Real-time Feedback: Displays results after processing.
